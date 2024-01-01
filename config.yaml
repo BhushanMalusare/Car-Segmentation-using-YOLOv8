@@ -1,0 +1,6 @@
+path: B:/Deep Learning/Computer Vision/Car segmentation YOLOv8/data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['car']
